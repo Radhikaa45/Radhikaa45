@@ -22,7 +22,7 @@ Hi! I'm **Radhika**, passionate about building interactive web apps and explorin
 
 ## 📊 GitHub
 
-| 🔹 Top Languages | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhikaa45&layout=compact&theme=radical) |
+ [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhikaa45&layout=compact&theme=radical) |
 
 
 ---
