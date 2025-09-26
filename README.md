@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Radhika Gupta  
+# 👋 Hi there! I'm Radhika Gupta  (@Radhikaa45)
 🚀 A Web Developer | AI Enthusiast | Problem Solver  
 
 ---
