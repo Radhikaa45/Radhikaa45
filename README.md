@@ -25,7 +25,7 @@ Hi! I'm **Radhika**, passionate about building interactive web apps and explorin
 |-------|----------------|
 | 🔹 GitHub Stats | ![Radhikaa45's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radhikaa45&show_icons=true&theme=radical) |
 | 🔹 Top Languages | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhikaa45&layout=compact&theme=radical) |
-| 🔹 Trophies | ![Trophy](https://github-profile-trophy.vercel.app/?username=Radhikaa45&theme=radical) |
+
 
 ---
 
