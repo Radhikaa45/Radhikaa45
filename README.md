@@ -20,13 +20,6 @@ Hi! I'm **Radhika**, passionate about building interactive web apps and explorin
 
 ---
 
-## 📊 GitHub
-
- [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhikaa45&layout=compact&theme=radical) |
-
-
----
-
 ## 💻 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Radhikaa45?theme=dark&font=Nunito&ext=contest)
 
